@@ -14,5 +14,5 @@ def now_serving
   if line false
     puts "the line is empty"
   else
-    
+end    
 end
