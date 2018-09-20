@@ -3,11 +3,11 @@ def take_a_number
   if line false
     array << 1_person
   elsif line true
-    array.shift 
+    array.shift
   else
     array
-    
-end    
+
+end
 end
 
 def now_serving
